@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+    font-family:'Courier New', Courier, monospace;
+}
+
+header {
+    background: #009b93;
+    text-align: center;
+}
+
+.logo {
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header input {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.news_item{
+    padding: 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid grey;
+
+}
