@@ -1,0 +1,2 @@
+// install redux && react-redux
+
